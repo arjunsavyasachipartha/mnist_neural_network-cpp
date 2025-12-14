@@ -1,6 +1,6 @@
 # **NEURAL NETWORK FROM SCRATCH USING C++ FOR MNIST DATASET**
 
-Today we have self-driving cars.
+Today we all have self-driving cars.
 But still, we prefer to learn driving.
 
 Why?
